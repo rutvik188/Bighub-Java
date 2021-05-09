@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bighub</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="logout">Logout</string>
+    <string name="email_gmail_com">Email@gmail.com</string>
+    <string name="rutvik_shah">Rutvik Shah</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_resume">Resume upload</string>
+    <string name="upload_paused">Upload is paused</string>
+    <string name="loading">Loading…</string>
+    <string name="button_upload">upload</string>
+    <string name="decription">Decription</string>
+    <string name="title">Title</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="price">Price</string>
+    <string name="save">save</string>
+
+</resources>
